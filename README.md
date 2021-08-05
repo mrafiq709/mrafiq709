@@ -5,7 +5,7 @@ I am a full stack software engineer with PHP and Java expertise. More than 3 yea
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on Laravel backend and ReactJs frontend project
 - 📫 How to reach me: mrafiq709@.gmail.com
-- 
+
 ### Profiles  📖
 [<img align="left" alt="Rafiq | LinkedIn" width="22px" src="https://i.imgur.com/Li26qrc.png" />][linkedin]
 [<img align="left" alt="Rafiq | Uva" width="22px" src="https://i.imgur.com/jksNf8B.png" />][uva]
