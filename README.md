@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am a full stack software engineer with PHP and Java expertise. More than 3 years of experience in software development. Proven ability to effectively lead Personnel in various combat and non-combat situations. Strong problem solving ability. Committed to Achieving goals with PHP and Java skills.
+I am a full stack software engineer with PHP and JavaScript expertise. More than 3 years of experience in software development. Proven ability to effectively lead Personnel in various combat and non-combat situations. Strong problem solving ability. Committed to Achieving goals with PHP and JavaScript skills.
 
-- 🔭 I’m currently working on micro services(Laravel), Website Crawling and Telegram automation report
-- 🌱 I’m currently learning ReactJs
+- 🔭 I’m currently working on micro services(Laravel) and ReactJs for frontend
+- 🌱 I’m currently improving ReactJs skills
 - 👯 I’m looking to collaborate on Laravel backend and ReactJs frontend project
 - 📫 How to reach me: mrafiq709@.gmail.com
 
